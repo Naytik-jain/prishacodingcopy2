@@ -1,0 +1,59 @@
+.header{
+    width: 100%;
+    font-size: xx-large;
+    margin: 0px;
+    box-shadow: 5px 5px 5px black;
+    font-family: 'Grandstander', cursive;
+    font-weight: 600;
+}
+.Note{
+    font-size: large;
+    
+    
+}
+body{
+    background-size: cover;
+}
+ .speed-disk img{
+    width:200px ;
+    border-radius: 100px;
+    margin-left: 10px;
+}
+.speed-disk{
+    float: left;
+}
+#speed{
+    border-radius:15px ;
+   border: 5px crimson solid;
+    font-size: x-large;
+    font-family: 'Oxygen', sans-serif;
+}
+
+.volume-disk img{
+    width:200px ;
+    border-radius: 100px;
+    margin-right: 10px;
+}
+.volume-disk{
+    float: right;
+}
+#volume{
+    border-radius:15px ;
+   border: 5px crimson solid;
+    font-size: x-large;
+    font-family: 'Oxygen', sans-serif;
+}
+
+.Play_btn{
+    font-size: xx-large;
+    width: 150px;
+    font-family: 'Oxygen', sans-serif;
+}
+
+canvas{
+    border: 5px solid darkblue;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px black;
+    margin-top: 40px;
+    background-color: rgba(0, 19, 124, 0.658);
+}

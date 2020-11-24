@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+.line {
+    width: 150px;
+    height: 5px;
+    margin: 10px auto;
+    background-color: chartreuse;
+}
+img{
+    transition: transform .2s;
+}
+img:hover{
+    transform: scale(0.9);
+}

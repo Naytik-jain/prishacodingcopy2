@@ -1,0 +1,8 @@
+.body_background{background-image: url("keyboard.jpg");
+background-position: center;
+background-size: cover;
+}
+.btn-primary{
+    box-shadow: 8px 8px 2px cornflowerblue;
+    width: 100%;
+}
